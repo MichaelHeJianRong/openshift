@@ -1,0 +1,6 @@
+c:\users\michael.he\documents\visual studio 2013\Projects\Hello_world_donet\Hello_world_donet\bin\Hello_world_donet.dll.config
+c:\users\michael.he\documents\visual studio 2013\Projects\Hello_world_donet\Hello_world_donet\bin\Hello_world_donet.dll
+c:\users\michael.he\documents\visual studio 2013\Projects\Hello_world_donet\Hello_world_donet\bin\Hello_world_donet.pdb
+c:\users\michael.he\documents\visual studio 2013\Projects\Hello_world_donet\Hello_world_donet\obj\Debug\Hello_world_donet.csprojResolveAssemblyReference.cache
+c:\users\michael.he\documents\visual studio 2013\Projects\Hello_world_donet\Hello_world_donet\obj\Debug\Hello_world_donet.dll
+c:\users\michael.he\documents\visual studio 2013\Projects\Hello_world_donet\Hello_world_donet\obj\Debug\Hello_world_donet.pdb

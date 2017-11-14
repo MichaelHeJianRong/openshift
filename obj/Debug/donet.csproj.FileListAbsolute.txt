@@ -1,0 +1,5 @@
+C:\Users\michael.he\Documents\Visual Studio 2013\Projects\Hello_world_donet\Hello_world_donet\bin\Hello_world_donet.dll.config
+C:\Users\michael.he\Documents\Visual Studio 2013\Projects\Hello_world_donet\Hello_world_donet\bin\Hello_world_donet.dll
+C:\Users\michael.he\Documents\Visual Studio 2013\Projects\Hello_world_donet\Hello_world_donet\bin\Hello_world_donet.pdb
+C:\Users\michael.he\Documents\Visual Studio 2013\Projects\Hello_world_donet\Hello_world_donet\obj\Debug\Hello_world_donet.dll
+C:\Users\michael.he\Documents\Visual Studio 2013\Projects\Hello_world_donet\Hello_world_donet\obj\Debug\Hello_world_donet.pdb
